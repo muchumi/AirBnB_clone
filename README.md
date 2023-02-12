@@ -128,7 +128,7 @@ python3 (3.4.3)
 HBnB - version 9.6
 
 ### Acknowledgements :raised_hands:
-To all the creatives that contribuited their knowledge
+To all the creatives that contributed their knowledge
 
 ### Authors :fountain_pen:
 * Wycliffe Muchumi
